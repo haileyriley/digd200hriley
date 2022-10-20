@@ -1,0 +1,31 @@
+*{
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+}
+
+.logo {
+  height: 60px;
+  width: auto;
+}
+
+hr {
+  background: white;
+  padding: 10px;
+}
+
+a.dropdown-toggle{
+    color:darkred!important;
+}
+
+.bellatop .row {
+  height: 800px;
+  color: white;
+}
+.bellatop {
+    background-image: url("https://assets.codepen.io/1907266/pizza.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+a.navbar-brand{
+    font-family: 'Roboto Slab', serif;
+}
